@@ -5,7 +5,7 @@ about:
   head: e36c971
   archived: false
   latestVersion: "0.10.2"
-  collectedAt: 2026-09-07T05:06:27Z
+  collectedAt: 2026-09-07T19:33:07Z
 timeline:
   created: 2024-03-02
   lastCommit: 2026-05-14
@@ -82,7 +82,7 @@ total:
   commit: 214
 ---
 path: /home/runner/.x-repo/github.com/zaghaghi/openapi-tui
-collectedAt: 2026-09-07T05:06:28Z
+collectedAt: 2026-09-07T19:33:09Z
 loc:
   Json:
     code: 323865
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:29+00:00
+  collectedAt: 2026-09-07T19:33:09+00:00
   platform:
     darwin/arm64:
       name:  openapi-tui-0.10.2-macos-arm64.tar.gz
