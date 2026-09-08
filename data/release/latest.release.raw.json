@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6127238,
       "digest": null,
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2025-03-07T12:59:10Z",
       "updated_at": "2025-03-07T12:59:10Z",
       "browser_download_url": "https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": null,
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2025-03-07T12:58:04Z",
       "updated_at": "2025-03-07T12:58:04Z",
       "browser_download_url": "https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-x86_64.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6300563,
       "digest": null,
-      "download_count": 1206,
+      "download_count": 1208,
       "created_at": "2025-03-07T12:58:04Z",
       "updated_at": "2025-03-07T12:58:04Z",
       "browser_download_url": "https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-x86_64.tar.gz"
