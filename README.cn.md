@@ -12,7 +12,7 @@ Terminal UI to list, browse and run APIs defined with openapi spec.
 x install openapi-tui
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **456,161** 行代码（覆盖前 5 种语言、共 **75** 个文件）。
 
@@ -37,7 +37,7 @@ x install openapi-tui
 
 ## 流行度
 
-- **Star**: 1,322 · **Fork**: 31 · **开放 issue**: 20 · **贡献者**: 8
+- **Star**: 1,321 · **Fork**: 31 · **开放 issue**: 20 · **贡献者**: 8
 
 ## 累计统计
 
@@ -91,4 +91,4 @@ openapi-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:55:14Z._
