@@ -22,7 +22,23 @@ x install openapi-tui
 - **Latest**: `0.10.2` (2025-03-07)
 - **Last commit**: 2026-05-14
 - **Assets in release**: 12
-- **Published**: 2025-03-07T12:54:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [openapi-tui-0.10.2-linux-arm64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-arm64.sha256) | 104 B | `native/linux/arm64` |
+| [openapi-tui-0.10.2-linux-arm64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [openapi-tui-0.10.2-linux-i686.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-i686.sha256) | 103 B | `native/linux/x86` |
+| [openapi-tui-0.10.2-linux-i686.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-i686.tar.gz) | 6.2 MiB | `native/linux/x86` |
+| [openapi-tui-0.10.2-linux-x86_64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-x86_64.sha256) | 105 B | `native/linux/x64` |
+| [openapi-tui-0.10.2-linux-x86_64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-linux-x86_64.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [openapi-tui-0.10.2-macos-arm64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-macos-arm64.sha256) | 104 B | `native/darwin/arm64` |
+| [openapi-tui-0.10.2-macos-arm64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-macos-arm64.tar.gz) | 3.8 MiB | `native/darwin/arm64` |
+| [openapi-tui-0.10.2-macos-x86_64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-macos-x86_64.sha256) | 105 B | `native/darwin/x64` |
+| [openapi-tui-0.10.2-macos-x86_64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-macos-x86_64.tar.gz) | 4.0 MiB | `native/darwin/x64` |
+| [openapi-tui-0.10.2-windows-x86_64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.sha256) | 65 B | `native/win/x64` |
+| [openapi-tui-0.10.2-windows-x86_64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.tar.gz) | 3.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +73,8 @@ Total: **456,161** lines of code across **75** files in the top 5 languages.
 Install metadata for openapi-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `openapi-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/openapi-tui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/openapi-tui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:26:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:59Z._
