@@ -1,0 +1,64 @@
+# openapi-tui
+
+[English version](./README.md)
+
+Terminal UI to list, browse and run APIs defined with openapi spec.
+
+![openapi-tui](https://repo.x-cmd.io/openapi-tui.svg)
+
+## 安装
+
+```sh
+x install openapi-tui
+```
+
+## 源代码
+
+- **上游仓库**: <https://github.com/zaghaghi/openapi-tui>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `0.10.2` (2025-03-07)
+- **最近提交**: 2026-05-14
+- **Release 含资产**: 12 个
+- **发布时间**: 2025-03-07T12:54:27Z
+
+## 流行度
+
+- **Star**: 1,322 · **Fork**: 31 · **开放 issue**: 20 · **贡献者**: 8
+
+## 累计统计
+
+- **发布数**: 17 · **已合并 PR**: 33 · **开放 PR**: 3 · **已关闭 issue**: 14 · **开放 issue**: 6 · **提交数**: 214
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 360d | 2025-09-15 | 0 | 8 | 2 | 5 | 4 | 46 |
+
+## 代码规模
+
+合计: **456,161** 行代码（覆盖前 5 种语言、共 **75** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 323,865 | 0 | 87 | 6 |
+| Yaml | 123,822 | 288 | 1,010 | 1 |
+| Rust | 7,902 | 249 | 694 | 65 |
+| Svg | 380 | 1 | 1 | 1 |
+| Nix | 89 | 0 | 10 | 2 |
+
+## 改进这些数据
+
+openapi-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `openapi-tui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
+
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/openapi-tui.yml>（或索引实际使用的路径）
+
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
+
+_数据快照: `data/card/260910.yml` · 2026-09-10T05:26:41Z._
