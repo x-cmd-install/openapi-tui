@@ -7,7 +7,7 @@ about:
   latestVersion: "0.10.2"
   latestRelease: "0.10.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:45:52Z
+  collectedAt: 2026-09-10T20:54:02Z
 timeline:
   created: 2024-03-02
   lastCommit: 2026-05-14
@@ -86,7 +86,7 @@ total:
   commit: 214
 ---
 path: /home/runner/.x-repo/github.com/zaghaghi/openapi-tui
-collectedAt: 2026-09-10T16:45:54Z
+collectedAt: 2026-09-10T20:54:05Z
 loc:
   Json:
     code: 323865
