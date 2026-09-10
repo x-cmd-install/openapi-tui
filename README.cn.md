@@ -12,6 +12,18 @@ Terminal UI to list, browse and run APIs defined with openapi spec.
 x install openapi-tui
 ```
 
+## 代码规模
+
+合计: **456,161** 行代码（覆盖前 5 种语言、共 **75** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 323,865 | 0 | 87 | 6 |
+| Yaml | 123,822 | 288 | 1,010 | 1 |
+| Rust | 7,902 | 249 | 694 | 65 |
+| Svg | 380 | 1 | 1 | 1 |
+| Nix | 89 | 0 | 10 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/zaghaghi/openapi-tui>
@@ -22,6 +34,25 @@ x install openapi-tui
 - **最新版本**: `0.10.2` (2025-03-07)
 - **最近提交**: 2026-05-14
 - **Release 含资产**: 12 个
+
+## 流行度
+
+- **Star**: 1,322 · **Fork**: 31 · **开放 issue**: 20 · **贡献者**: 8
+
+## 累计统计
+
+- **发布数**: 17 · **已合并 PR**: 33 · **开放 PR**: 3 · **已关闭 issue**: 14 · **开放 issue**: 6 · **提交数**: 214
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-14 | 0 | 8 | 1 | 1 | 2 | 46 |
+| 360d | 2025-09-15 | 0 | 8 | 2 | 5 | 4 | 46 |
+| last720d | 2024-09-20 | 3 | 10 | 3 | 6 | 5 | 66 |
 
 ## Release 资产
 
@@ -40,33 +71,16 @@ x install openapi-tui
 | [openapi-tui-0.10.2-windows-x86_64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.sha256) | 65 B | `native/win/x64` |
 | [openapi-tui-0.10.2-windows-x86_64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.tar.gz) | 3.9 MiB | `native/win/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 1,322 · **Fork**: 31 · **开放 issue**: 20 · **贡献者**: 8
+在 [repology.org](https://repology.org/project/openapi-tui) 上共有 **15** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 17 · **已合并 PR**: 33 · **开放 PR**: 3 · **已关闭 issue**: 14 · **开放 issue**: 6 · **提交数**: 214
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 0 | 8 | 2 | 5 | 4 | 46 |
-
-## 代码规模
-
-合计: **456,161** 行代码（覆盖前 5 种语言、共 **75** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Json | 323,865 | 0 | 87 | 6 |
-| Yaml | 123,822 | 288 | 1,010 | 1 |
-| Rust | 7,902 | 249 | 694 | 65 |
-| Svg | 380 | 1 | 1 | 1 |
-| Nix | 89 | 0 | 10 | 2 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.10.2` | ✅ latest |
+| Homebrew | `0.10.2` | ✅ latest |
+| Nix unstable | `0.10.2` | ✅ latest |
+| Alpine edge | `0.9.4` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -77,4 +91,4 @@ openapi-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:16Z._
