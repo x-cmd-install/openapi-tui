@@ -37,7 +37,7 @@ Total: **456,161** lines of code across **75** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,325 · **Forks**: 32 · **Open issues**: 20 · **Contributors**: 8
+- **Stars**: 1,324 · **Forks**: 32 · **Open issues**: 20 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **456,161** lines of code across **75** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-03-17 | 0 | 8 | 1 | 1 | 2 | 46 |
-| 360d | 2025-09-18 | 0 | 8 | 2 | 5 | 4 | 46 |
-| last720d | 2024-09-23 | 3 | 10 | 3 | 6 | 5 | 66 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-18 | 0 | 8 | 1 | 1 | 2 | 46 |
+| 360d | 2025-09-19 | 0 | 8 | 2 | 5 | 4 | 46 |
+| last720d | 2024-09-24 | 3 | 10 | 3 | 6 | 5 | 66 |
 
 ## Release assets
 
@@ -71,17 +71,6 @@ Total: **456,161** lines of code across **75** files in the top 5 languages.
 | [openapi-tui-0.10.2-windows-x86_64.sha256](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.sha256) | 65 B | `native/win/x64` |
 | [openapi-tui-0.10.2-windows-x86_64.tar.gz](https://github.com/zaghaghi/openapi-tui/releases/download/0.10.2/openapi-tui-0.10.2-windows-x86_64.tar.gz) | 3.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/openapi-tui). **11** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.10.2` | ✅ latest |
-| Homebrew | `0.10.2` | ✅ latest |
-| Nix unstable | `0.10.2` | ✅ latest |
-| Alpine edge | `0.9.4` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for openapi-tui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `openapi-tui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +80,4 @@ Install metadata for openapi-tui lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:25:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:44:56Z._
