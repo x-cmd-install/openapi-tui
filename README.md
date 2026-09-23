@@ -4,7 +4,7 @@
 
 Terminal UI to list, browse and run APIs defined with openapi spec.
 
-[![x-cmd/install — openapi-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openapi-tui.svg)](https://x-cmd.com/install/openapi-tui)
+[![x-cmd/install — openapi-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/openapi-tui.svg)](https://x-cmd.com/install/openapi-tui)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **456,161** lines of code across **75** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,327 · **Forks**: 32 · **Open issues**: 20 · **Contributors**: 8
+- **Stars**: 1,328 · **Forks**: 32 · **Open issues**: 21 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 33 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 6 · **Commits**: 214
+- **Releases**: 17 · **Merged PRs**: 33 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 7 · **Commits**: 214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 8 | 1 | 1 | 2 | 42 |
-| 360d | 2025-09-27 | 0 | 8 | 2 | 5 | 4 | 46 |
-| last720d | 2024-10-02 | 3 | 10 | 3 | 6 | 5 | 66 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 8 | 1 | 1 | 3 | 42 |
+| 360d | 2025-09-28 | 0 | 8 | 2 | 5 | 5 | 46 |
+| last720d | 2024-10-03 | 3 | 10 | 3 | 6 | 6 | 66 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for openapi-tui lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:37:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:41:14Z._
