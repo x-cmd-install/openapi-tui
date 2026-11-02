@@ -1,14 +1,3 @@
-- repo: arch
-  subrepo: extra
-  srcname: openapi-tui
-  binname: openapi-tui
-  visiblename: openapi-tui
-  version: 0.10.2
-  origversion: 0.10.2-2
-  status: newest
-  summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: openapi-tui
@@ -20,6 +9,17 @@
   summary: Terminal UI to list, browse and run APIs defined with openapi spec
   maintainers:
     - contact@willowbarraco.fr
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: openapi-tui
+  binname: openapi-tui
+  visiblename: openapi-tui
+  version: 0.10.2
+  origversion: 0.10.2-2
+  status: newest
+  summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
   licenses:
     - MIT
 - repo: freebsd
@@ -48,28 +48,6 @@
   origversion: null
   status: rolling
   summary: TUI to list, browse and run APIs defined with openapi spec
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: openapi-tui
-  binname: openapi-tui
-  visiblename: openapi-tui
-  version: 0.10.2
-  origversion: 0.10.2-2
-  status: newest
-  summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: openapi-tui
-  binname: openapi-tui
-  visiblename: openapi-tui
-  version: 0.10.2
-  origversion: 0.10.2-2
-  status: newest
-  summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: openapi-tui
