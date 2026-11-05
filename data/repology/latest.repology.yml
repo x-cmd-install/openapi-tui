@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: openapi-tui
+  visiblename: openapi-tui
+  version: 0.10.2
+  origversion: null
+  status: newest
+  summary: Terminal UI to list, browse and run APIs defined with openapi spec
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: openapi-tui
@@ -18,6 +29,17 @@
   visiblename: openapi-tui
   version: 0.10.2
   origversion: 0.10.2-2
+  status: newest
+  summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
+  licenses:
+    - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: openapi-tui
+  binname: openapi-tui
+  visiblename: openapi-tui
+  version: 0.10.2
+  origversion: 0.10.2-3
   status: newest
   summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
   licenses:
@@ -82,17 +104,6 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
-  srcname: openapi-tui
-  visiblename: openapi-tui
-  version: 0.10.2
-  origversion: null
-  status: newest
-  summary: Terminal UI to list, browse and run APIs defined with openapi spec
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
   srcname: openapi-tui
   visiblename: openapi-tui
   version: 0.10.2
