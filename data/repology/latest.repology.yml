@@ -76,7 +76,7 @@
   binname: openapi-tui
   visiblename: openapi-tui
   version: 0.10.2
-  origversion: 0.10.2-2
+  origversion: 0.10.2-3
   status: newest
   summary: Terminal UI to list, browse and run APIs defined with OpenAPI spec
   licenses:
